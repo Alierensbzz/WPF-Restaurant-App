@@ -1,0 +1,12 @@
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\bin\Debug\RestaurantApp.VarlikKatmani.dll.config
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\bin\Debug\RestaurantApp.VarlikKatmani.dll
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\bin\Debug\RestaurantApp.VarlikKatmani.pdb
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\bin\Debug\EntityFramework.dll
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\bin\Debug\EntityFramework.xml
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\obj\Debug\RestaurantApp.VarlikKatmani.csproj.AssemblyReference.cache
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\obj\Debug\RestaurantApp.VarlikKatmani.csproj.CoreCompileInputs.cache
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\obj\Debug\Restaura.E40FD08E.Up2Date
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\obj\Debug\RestaurantApp.VarlikKatmani.dll
+D:\WPF PROJE\Proje\RestaurantApp\RestaurantApp.VarlikKatmani\obj\Debug\RestaurantApp.VarlikKatmani.pdb
